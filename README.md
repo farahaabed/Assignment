@@ -1,7 +1,7 @@
 # Assignment
 
 *Entites:
-1- CurrencyCode: (to define the currency code)
+1- CurrencyCode: (for currency code predefined data)
   CurrencyID 
 	CurrencyCode 
 	CurrencyDesc 
